@@ -1,8 +1,8 @@
-# ADA for Salesforce
+# Cardano for Salesforce
 
 ![](documentation-and-images/ADA-for-Salesforce-thumbnail.png)
 
-ADA for Salesforce is an open source solution for using the Cardano Network to send and receive payments into Salesforce. ADA for Salesforce monitors the blockchain, so it  should work with any popular Cardano wallet users want to use.
+Cardano for Salesforce is an open source solution for using the Cardano Network to send and receive payments into Salesforce. ADA for Salesforce monitors the blockchain, so it  should work with any popular Cardano wallet users want to use.
 
 Web3 Enabler’s [Blockchain Payments](https://web3enabler.com/product/blockchain-payments) product supports UTXO models as well as Account models, which gives us the experience and core tools to bring over to ADA for Salesforce.
 
@@ -12,4 +12,4 @@ For more information about Blockchain Payments, check
 
 ## Copyright and License
 
-Copyright 2024 Web3 Enabler, Inc.  ADA for Salesforce is distributed under the GPL licence, version 3.0.  For more information, see the [LICENSE file](LICENSE).
+Copyright 2024 Web3 Enabler, Inc.  Cardano for Salesforce is distributed under the GPL licence, version 3.0.  For more information, see the [LICENSE file](LICENSE).
