@@ -1,6 +1,6 @@
 # Cardano for Salesforce
 
-![](https://github.com/MuKnSys/cardano-for-salesforce/blob/main/documentation-and-images/Cardano-for-Salesforce-thumbnail.png)
+![](documentation-and-images/Cardano-for-Salesforce-thumbnail.png)
 
 Cardano for Salesforce is an open source solution for using the Cardano Network to send and receive payments into Salesforce. Cardano for Salesforce monitors the blockchain, so it  should work with any popular Cardano wallet users want to use.
 
