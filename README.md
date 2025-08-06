@@ -14,4 +14,4 @@ For more information about Blockchain Payments, check
 
 ## Copyright and License
 
-Copyright 2024 Web3 Enabler, Inc.  Cardano for Salesforce is distributed under the GPL licence, version 3.0.  For more information, see the [LICENSE file](LICENSE).
+Copyright 2024 Web3 Enabler, Inc.  Cardano for Salesforce is distributed under the GPL license, version 3.0.  For more information, see the [LICENSE file](LICENSE).
