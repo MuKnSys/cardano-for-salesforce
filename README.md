@@ -40,7 +40,7 @@ You can learn more about Blockchain Payments and Digital Asset Wallet by checkin
 The long-term vision for Web3 Enabler’s partnership with Cardano involves deeper integration for on-ramp and off-ramp solutions, interaction with Salesforce’s new Agentforce AI framework, and deeper integration into the Salesforce Ecosystem.
 
 
-## :page-facing-up: Copyright and License
+## :memo: Copyright and License
 
 Copyright (c) 2025 Web3 Enabler, Inc.  Cardano for Salesforce is distributed under the GPL license, version 3.0.  For more information, see the [LICENSE file](LICENSE).
 
