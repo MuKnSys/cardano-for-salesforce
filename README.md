@@ -33,7 +33,7 @@ Cardano for Salesforce will be an independent open source Salesforce app, as wel
 
 Once Cardano for Salesforce is added to the Salesforce AppExchange listing, the Cardano  Web3 Enabler team will be able to add support for Cardano and its eUTXO model to our commercial Salesforce products, which currently include the following. 
 * [Blockchain Payments](https://appexchange.salesforce.com/appxListingDetail?listingId=ee4c011b-7a5b-4a50-91fb-f28049390858), a cryptocurrency and Stablecoin payment solution, which already supports UTXO models as well as Account models
-*[Digital Asset Wallet](https://appexchange.salesforce.com/appxListingDetail?listingId=b1884242-f2bb-42c5-b81a-16f209acbfb1), which enables wealth managers using Financial Service Cloud (Salesforce Standard Objects) to have transparency with their client's digital asset holdings
+* [Digital Asset Wallet](https://appexchange.salesforce.com/appxListingDetail?listingId=b1884242-f2bb-42c5-b81a-16f209acbfb1), which enables wealth managers using Financial Service Cloud (Salesforce Standard Objects) to have transparency with their client's digital asset holdings
 
 You can learn more about Blockchain Payments and Digital Asset Wallet by checking out our [product demo videos](https://youtube.com/playlist?list=PLt68TvyH77C1-ohVjDQD6DR9XmBKOKnpz&si=Z7OvvWqCGbt91Bcg).
 
