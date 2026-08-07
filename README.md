@@ -12,7 +12,7 @@ Cardano for Salesforce is an open source solution for using the Cardano Network 
 Key features of Cardano for Salesforce include the following. 
 * Support for third party wallets
 * Full Payable/Payment request tracking, this is a full payment solution.
-* Support for Stablecoins that comply with the GENIUS Act.
+* Support for Stablecoins like USDCx that comply with the GENIUS Act.
 * On-ramp and off-ramp support without the need for enterprise IT or finance professionals to understand the complexities of a web3 wallet or other Cardano native technologies
 
 ## :jigsaw: Use Cases
